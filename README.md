@@ -1,13 +1,16 @@
 Hi 👋 My name is Alex Nechyporenko
 ==================================
 
-I am a Junior Python Web-Developer (Django)
+I am a Junior Python Developer & Scraping Specialist
 --------------------------------------
+
 
 with 1 year of experience. In my portfolio I have more than 10 pet-projects of varying complexity, such as: <br/>
 Blog, NewsPaper, To-Do List, Password Generator, Portfolio (framework Django); <br/>
-parsing (scrapping) of diverse information from various websites (Python libraries Requests, Scrapy, Beautiful Soup); <br/>
-identification of a person by photo (gender, age, race, prevailing emotions)(library DeepFace); <br/>
+Aggregator site for searching for IT vacancies (framework Flask);<br/>
+Scripts for parsing (scrapping) of diverse information from various
+websites (Python libraries Requests, Beautiful Soup4, Scrapy,
+Selenium); <br/>
 
 
 *   🌍  I'm based in Ukraine
@@ -36,7 +39,7 @@ identification of a person by photo (gender, age, race, prevailing emotions)(lib
 <p align="left">  
 <a href="https://www.behance.com/nechalexdesigned" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/AlexandroFSD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                         
-<a href="https://www.linkedin.com/in/oleksandr-nechyporenko-646806237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/nechyporenko-alex/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
