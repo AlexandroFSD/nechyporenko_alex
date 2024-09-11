@@ -7,7 +7,7 @@ I am a Junior Python Developer & Scraping Specialist
 
 with 1 year of experience. In my portfolio I have more than 10 pet-projects of varying complexity, such as: <br/>
 Blog, NewsPaper, To-Do List, Password Generator, Portfolio (framework Django); <br/>
-Aggregator site for searching for IT vacancies (framework Flask);<br/>
+Aggregator site for searching IT vacancies (framework Flask);<br/>
 Scripts for parsing (scrapping) of diverse information from various
 websites (Python libraries Requests, Beautiful Soup4, Scrapy,
 Selenium); <br/>
