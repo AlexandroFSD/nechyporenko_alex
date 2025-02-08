@@ -10,6 +10,8 @@ on:
 jobs:
   update-visits:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Додано для дозволу на зміну файлів
 
     steps:
       - name: Checkout repository
@@ -22,13 +24,13 @@ jobs:
           visits=$(cat visits.txt)
           visits=$((visits + 1))
           echo $visits > visits.txt
-          echo "::set-output name=visits::$visits"
+          echo "visits=$visits" >> $GITHUB_ENV
 
       - name: Update README.md
         run: |
-          visits=${{ steps.increment.outputs.visits }}
-          badge="![Visits](https://img.shields.io/badge/Visits-0-088484)"
-          sed -i 's|!\[Visits\](https://img.shields.io/badge/Visits-.*-088484)|'"$badge"'|' README.md
+          visits=${{ env.visits }}
+          badge="![Visits](https://img.shields.io/badge/Visits-$visits-088484)"
+          sed -i "s|!\[Visits\](https://img.shields.io/badge/Visits-.*-088484)|$badge|" README.md
 
       - name: Commit changes
         run: |
