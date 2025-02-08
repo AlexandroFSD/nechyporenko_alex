@@ -52,7 +52,7 @@ Selenium); <br/>
 
 <a href="http://www.github.com/AlexandroFSD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandroFSD&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Visits](https://img.shields.io/badge/Visits-0-088484)
+![Visits](https://img.shields.io/badge/Visits-1-088484)
 
 ### Support Me
 
