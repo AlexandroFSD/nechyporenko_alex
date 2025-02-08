@@ -30,11 +30,7 @@ jobs:
         run: |
           visits=${{ env.visits }}
           badge="![Visits](https://img.shields.io/badge/Visitors_counter-$visits-informational?style=plastic&color=088484)"
-          if grep -q "Visitors_counter-" README.md; then
-            sed -i "s/!\[Visits\]\(https:\/\/img\.shields\.io\/badge\/Visitors_counter-[0-9]*-informational\?style=plastic&color=088484\)/$badge/" README.md
-          else
-            echo "$badge" >> README.md
-          fi
+          sed -i "s/!\[Visits\]\(https:\/\/img\.shields\.io\/badge\/Visitors_counter-[0-9]*-informational\?style=plastic&color=088484\)/$badge/" README.md
 
       - name: Commit changes
         run: |
