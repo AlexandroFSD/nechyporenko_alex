@@ -11,7 +11,7 @@ jobs:
   update-visits:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Додано для дозволу на зміну файлів
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -29,8 +29,8 @@ jobs:
       - name: Update README.md
         run: |
           visits=${{ env.visits }}
-          badge="![Visits](https://img.shields.io/badge/Visits-$visits-088484)"
-          sed -i "s|!\[Visits\](https://img.shields.io/badge/Visits-.*-088484)|$badge|" README.md
+          badge="![Visits](https://img.shields.io/badge/Visitors_counter-$visits-informational?style=plastic&color=088484)"
+          sed -i "s|!\[Visits\](https://img.shields.io/badge/Visitors_counter-.*-informational?style=plastic&color=088484)|$badge|" README.md
 
       - name: Commit changes
         run: |
