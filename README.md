@@ -60,5 +60,6 @@ Selenium); <br/>
 <p align="left">  
 <a href="https://buymeacoffee.com/webproalex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>              
                    
-                
+***
+![Visits](https://img.shields.io/badge/Visitors_counter-3-informational?style=plastic&color=088484)
                   
