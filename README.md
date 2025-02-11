@@ -63,4 +63,4 @@ Selenium); <br/>
 ***
 
                   
-![Visits](https://img.shields.io/badge/Visitors_counter-205-informational?style=plastic&color=088484)
+![Visits](https://img.shields.io/badge/Visitors_counter-206-informational?style=plastic&color=088484)
