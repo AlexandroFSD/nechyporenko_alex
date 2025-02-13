@@ -1,5 +1,5 @@
 <!--- -- Custom Designed Banner --------------------------------------------------------------------------------------------- -->
-![Banner GitHub](https://github.com/)
+![Banner GitHub](https://github.com/AlexandroFSD/nechyporenko_alex/blob/main/src/banner.jpg)
 
 <!--- -- Visitor Badge + Links ------------------------------------------------------------------------------------------------->
 <div align="center">
@@ -20,7 +20,7 @@
 
 with 17+ years of experience in finance and audit, I bring a strong analytical background to building automated data solutions that drive business insights.
 
-My technical skillset includes Python, Scrapy, Selenium, Beautiful Soup, XPath, RegEx, APIs, JSON, XML, proxies, anti-CAPTCHA techniques, AJAX, and various data storage solutions (SQL, NoSQL). I have a proven track record of designing, developing, and deploying robust and efficient scraping solutions that handle complex website structures and dynamic content. Seeking challenging projects that leverage my technical expertise and contribute to innovative data-driven solutions.  <br/>
+My technical skillset includes **Python, Scrapy, Selenium, Beautiful Soup, XPath, RegEx, APIs, JSON, XML, proxies, anti-CAPTCHA techniques, AJAX, and various data storage solutions (SQL, NoSQL)**. I have a proven track record of designing, developing, and deploying robust and efficient scraping solutions that handle complex website structures and dynamic content. Seeking challenging projects that leverage my technical expertise and contribute to innovative data-driven solutions.  <br/>
 
 
 *   🌍  I'm based in Ukraine 🇺🇦
@@ -180,4 +180,6 @@ If you find my work valuable, consider supporting me by buying me a coffee – y
 </a> 
 </p>   
 
+***
+![Repo Snake](https://github.com/AlexandroFSD/nechyporenko_alex/blob/main/src/github-user-contribution.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
