@@ -30,7 +30,8 @@ jobs:
         run: |
           visits=${{ env.visits }}
           badge="![Visits](https://img.shields.io/badge/Visitors_counter-$visits-informational?style=plastic&color=088484)"
-          sed -i "s/Visitors_counter-[0-9]*/Visitors_counter-$visits/" README.md
+          # Знаходимо початок блоку з лічильником (або унікальний рядок поруч з ним)
+          sed -i "s/.*/$badge/" README.md
 
       - name: Commit changes
         run: |
