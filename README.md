@@ -6,7 +6,7 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&color=088484&logoColor=white)](mailto:oleksandr.nechyporenko81@gmail.com)  
 [![Credly](https://img.shields.io/badge/Credly-informational?style=plastic&logo=credly&color=088484)](https://www.credly.com/users/alex-nechyporenko) [![GitHub](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=refinedgithub&logoColor=white&color=088484)](https://github.com/AlexandroFSD/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&color=088484)](https://www.linkedin.com/in/nechyporenko-alex/) <br>
-![Visits](https://img.shields.io/badge/Visitors_counter-568-informational?style=plastic&logo=Opsgenie&color=088484) <a href="https://www.github.com/AlexandroFSD" target="_blank" rel="noreferrer"><img
+![Visits](https://img.shields.io/badge/Visitors_counter-569-informational?style=plastic&logo=Opsgenie&color=088484) <a href="https://www.github.com/AlexandroFSD" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AlexandroFSD?logo=github&style=plastic&color=088484" /></a>
 
 </div>
