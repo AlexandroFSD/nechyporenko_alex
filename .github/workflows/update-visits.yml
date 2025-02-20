@@ -29,9 +29,8 @@ jobs:
       - name: Update README.md
         run: |
           visits=${{ env.visits }}
-          badge="![Visits](https://img.shields.io/badge/Visitors_counter-$visits-informational?style=plastic&color=088484)"
-          # Знаходимо початок блоку з лічильником (або унікальний рядок поруч з ним)
-          sed -i "s/Visitors_counter-[0-9]\+/Visitors_counter-$visits/" README.md
+          badge="![Visits](https://img.shields.io/badge/Visitors_counter-$visits-informational?style=plastic&logo=Opsgenie&color=088484)"
+          sed -i "s/Visitors_counter-[0-9]\+-informational/Visitors_counter-$visits-informational/" README.md
 
       - name: Commit changes
         run: |
