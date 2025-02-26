@@ -121,7 +121,8 @@ My technical skillset includes **Python, Scrapy, Selenium, Beautiful Soup, XPath
 
 | Projects | Description | Repository | Tech Stack & Tools |
 |:---------|:-----------:|:----------:|:-------------------|
-| Scripts Selenium | Python scripts that leverage the Selenium library to automate web browser interactions. These scripts provide functionalities for various web scraping and testing tasks | https://github.com/AlexandroFSD/scraping-python-selenium | #Python, #Selenium, #Web-Driver |
+| Scripts Selenium | Python scripts that leverage the Selenium library to automate web browser interactions. These scripts provide functionalities for various web scraping and testing tasks | https://github.com/AlexandroFSD/scraping_python_selenium | #Python, #Selenium, #Web-Driver |
+|Async Scraper | A Python script for asynchronous scraping to collect data and save them in structured form (CSV and JSON).Implementing logging to track progress and potential errors during the scraping process.| https://github.com/AlexandroFSD/ecommerce_async_scraper | #Python, #Asyncio, #Aiohttp, #BeautifulSoup, #Logging |
 
 ***
 
