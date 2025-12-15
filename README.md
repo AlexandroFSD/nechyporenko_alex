@@ -29,6 +29,11 @@ I design and build **production-grade scraping systems** capable of handling:
 
 My work focuses on delivering **clean, structured datasets (JSON, CSV, API)** and **fully automated pipelines** with monitoring, retries, proxy rotation, and incremental updates.
 
+### 💡 Why Work With Me
+- I focus on **stable, long-running scraping systems**, not disposable scripts
+- I design pipelines that survive **anti-bot changes, traffic spikes, and scale**
+- I think in terms of **architecture, failure modes, monitoring, and maintainability**
+
 - 📄 Resume:  
   [View Resume & Download PDF](https://pyscrapepro.netlify.app/resume)
 
